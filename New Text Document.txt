@@ -5,3 +5,5 @@ git add .
 
 git commit -m 'message' ::= to commit the file ((ready to send to github))
 git log=: to check what has done til now.
+ git push --set-upstream origin task1 ::= to send branch to github repository.
+
