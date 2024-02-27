@@ -1,0 +1,7 @@
+
+git add filename
+git add .
+
+
+git commit -m 'message' ::= to commit the file ((ready to send to github))
+git log=: to check what has done til now.
